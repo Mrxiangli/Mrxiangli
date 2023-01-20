@@ -1,6 +1,6 @@
 - 👋 Hi, my name is Xiang Li
 - 👀 I’m a Ph.D student at Purdue University - West Lafayette 
-- 🌱 I’m currently major in computer engineering, and I'm interested in distributed system, computervision and robotics.
+- 🌱 I’m currently major in computer engineering, and I'm interested in distributed system, computer vision and robotics.
 - 💞️ I’m looking to collaborate on open source project that aims to solve real-world problems.
 
 <!---
